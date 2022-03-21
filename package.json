@@ -1,0 +1,14 @@
+{
+  "name": "json-fake-data-backend",
+  "version": "1.0.0",
+  "description": "json-fake-data-backend",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts":{
+    "start": "node server.js"
+  },
+  "author": "Jubayer Rahman",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
