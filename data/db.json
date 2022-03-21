@@ -1,20 +1,34 @@
 {
-  "test": [
+  "text": [
     {
-      "name": "Jubayer",
-      "id": 1
+      "page_content": " \nMini Habits by Stephen Guise \n \nThe Book in Three Sentences \n1. You don’t need triggers to form habits. \n2. The easier a habit, the easier it is to sustain. \n3. Let your core motivations drive your habits. \nThe Five Big Ideas \n1. “Doing a little bit is infinitely bigger and better than doing \nnothing (mathematically and practically speaking)”. \n2. “Doing a little bit every day has a greater impact than doing \na lot on one day”. \n3. “We’re quick to blame ourselves for lack of progress, but \nslow to blame our strategies”. \n4. “When you invest in yourself in key areas like fitness and \nlearning, you tend to do it in other areas too”. \n",
+      "book_id": 2,
+      "id": 4,
+      "page_number": 1
     },
     {
-      "name": "Rahman",
-      "id": 2
+      "page_content": "5. “When you add good habits into your life, it illuminates \nanother possible path, restores your confidence, and gives \nyou hope”. \nMini Habits Summary \n “Doing a little bit is infinitely bigger and better than doing \nnothing (mathematically and practically speaking).” \n “Doing a little bit every day has a greater impact than doing \na lot on one day.” \n “We’re quick to blame ourselves for lack of progress but \nslow to blame our strategies.” \n “Every great accomplishment rests on the foundation of \nwhat came before it; when you trace it back, you’ll see one \nsmall step that started it all.” \n “In False Faces, you consider the opposite of what you’re \ncurrently thinking, and see what creative ideas emerge from \nthat.” \n False Faces generate creative ideas by forcing your mind to \nzoom out and see the spectrum of possibilities. \n “When you invest in yourself in key areas like fitness and \nlearning, you tend to do it in other areas too.” \n “When you add good habits into your life, it illuminates \nanother possible path, restores your confidence, and gives \nyou hope.” \n “A mini habit is basically a much smaller version of a new \nhabit you want to form.” \n",
+      "book_id": 2,
+      "id": 5,
+      "page_number": 2
     },
     {
-      "name": "George",
-      "id": 3
+      "page_content": " “The foundation of the Mini Habits system is in ‘stupid \nsmall’ steps.” \n “To summarize, a mini habit is a VERY small positive \nbehavior that you force yourself to do every day.” \n “The only way to create habits is to teach the rest of your \nbrain to like what the prefrontal cortex wants.” \n “Motivation is unreliable because it’s based on how you feel, \nand we’ve known for centuries that human feelings are fluid \nand unpredictable.” \n “As a behavior begins its transition into habit you will \nbecome less emotional about it. It will even begin to seem \nboring and mundane.” \n “The five biggest factors found to cause ego depletion were \neffort perceived difficulty, negative affect, subjective fatigue, \nand blood glucose levels.” \n “The Mini Habits strategy is forcing yourself to take 1-4 \n‘stupid small’ strategic actions every day. These actions are \ntoo small to fail and too small to skip for special occasions.” \n “Self-efficacy is your belief in your ability to influence an \noutcome.” \n “Make a quick list of habits you’d like to have at some \npoint.” \n “My rule of thumb is to minify my desired habit until it \nsounds stupid. When something sounds ‘stupid small’, your \nbrain sees it as non-threatening.” \n “Once you’ve listed your habits, identify why you want \nthem. But don’t stop there. Ask why again. Continue to ask \n",
+      "book_id": 2,
+      "id": 6,
+      "page_number": 3
     },
     {
-      "name": "Mr. Test",
-      "id": 4
+      "page_content": "why until it becomes circular and repetitive, which means \nthat you’ve found the core.” \n “The two common habit cues are time-based and activity-\nbased.” \n “Small steps get us started and allow us to build momentum \ntowards a meaningful goal, but it works the other way too. If \nyou allow yourself small concessions, soon enough you’ll \nfind them growing against your will.” \n “Have you noticed that bad habits have multiple cues, while \neveryone suggests that a good habit should have one cue?” \n “Another problem with specific cues is their additional load \non your willpower.” \n “Mini habits are too small to fail, even without a cue.” \n “Writing something down instantly elevates it above all of \nyour other thoughts.” \n8 Small Steps to Big Change \n1. Choose Your Mini Habits & Habit Plan \n2. Use The Why Drill On Each Mini Habit \n3. Define Your Habit Cues \n4. Create Your Reward Plan \n5. Write Everything Down \n6. Think Small \n7. Meet Your Schedule & Drop High Expectations \n8. Watch For Signs Of Habit, But Be Careful Not to Jump the \nGun \n",
+      "book_id": 2,
+      "id": 7,
+      "page_number": 4
+    },
+    {
+      "page_content": "5 Signs That a Behavior Is a Habit \n1. No resistance. It feels easier to do the behavior than not to \ndo it. Identity: you now identify with the behavior and \nwould feel completely confident saying, “I read books” or \n“I’m a writer.” \n2. Mindless action. You’ll engage in the behavior without \nmaking an executive decision. You won’t think, Ok, I’ve \ndecided to go to the gym. You’ll just gather your things and \ngo because it’s Tuesday, or because it feels like it’s time. \n3. You don’t worry about it. Starting out, you might worry \nabout missing a day or quitting early, but when a behavior \nis habit, you know that you’ll be doing it unless there’s an \nemergency. \n4. Normalization. Habits are non-emotional. You’re not going \nto be excited that “you’re really doing it!” once it is habit. \nWhen a behavior makes the transition to normalcy, it’s \nhabit. \n5. It’s boring. Good habits are not exciting; they’re just good \nfor you. You’ll be more excited about life because of your \nhabits, but don’t expect it with the behavior itself. \n8 Mini Habit Rules \n1. Never, Ever Cheat \n2. Be Happy With All Progress \n3. Reward Yourself Often, Especially After a Mini Habit \n4. Stay Level-headed \n5. If You Feel Strong Resistance, Back Off & Go Smaller \n6. Remind Yourself How Easy This Is \n7. Never Think A Step Is Too Small \n8. Put Extra Energy and Ambition Toward Bonus Reps, Not A \nBigger Requirement \n",
+      "book_id": 2,
+      "id": 8,
+      "page_number": 5
     }
   ]
 }
